@@ -9,8 +9,6 @@ Sou uma entusiasta experiente da tecnologia, com mais de sete anos de vivência 
 <img align="center" alt="Angular" src="https://img.shields.io/badge/angular-A83859?style=for-the-badge&logo=angular&logoColor=white" />
 <img align="center" alt="Python" src="https://img.shields.io/badge/python-367C39?style=for-the-badge&logo=python&logoColor=white" />
 <img align="center" alt="PHP" src="https://img.shields.io/badge/php-7868B0?style=for-the-badge&logo=php&logoColor=white" />
-<img align="center" alt="WordPress" src="https://img.shields.io/badge/wordpress-blue?style=for-the-badge&logo=wordpress&logoColor=white" />
-<img align="center" alt="Webflow" src="https://img.shields.io/badge/webflow-389A2E?style=for-the-badge&logo=webflow&logoColor=white" />
 </div>
 
 
