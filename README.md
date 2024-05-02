@@ -51,10 +51,10 @@ Sou uma entusiasta experiente da tecnologia, com mais de sete anos de vivência 
 
 ## 📊 &nbsp;Status
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scarllettlins&layout=compact&theme=omni)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scarllettlins&show_icons=true&theme=omni&hide=issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scarllettlins&layout=compact&theme=shadow_green)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scarllettlins&show_icons=true&theme=shadow_green&hide=issues)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=scarllettlins&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&theme=omni)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=scarllettlins&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&theme=shadow_green)
 
 
 &nbsp;
