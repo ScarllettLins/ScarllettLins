@@ -34,7 +34,7 @@ Sou uma entusiasta experiente da tecnologia, com mais de sete anos de vivência 
 -   🐍 **Análise de Dados com Python**
 
 ## 👩‍💻 &nbsp;Experiência
--   📰 **Papelex:** Gerenciamento eCommerce e Integração Maketplace (2023)
+-   📰 **Papelex:** Gerenciamento eCommerce e Integração Marketplace (2023)
 -   ☁️ **Nuuvem LTDA:** Storefront eCommerce (2022)
 -   💻 **Mega Informática:** Gerente de Marketing (2018-2021)
 -   ️🖥️ **Infoshop:** Gerente de Marketing (2017-2018)
