@@ -1,4 +1,4 @@
-## ✨  &nbsp;Sobre mim
+## ✨  &nbsp;Sobre mim 
 Sou uma entusiasta experiente da tecnologia, com mais de sete anos de vivência em áreas como desenvolvimento de software, ecommerce, análise de dados e marketing digital. Embora já tenha uma sólida experiência nesse mercado, percebi a importância de aprimorar minha formação acadêmica para atingir certos objetivos profissionais e acadêmicos. Atualmente, estou em processo de graduação em Análise e Desenvolvimento de Sistemas, com o intuito de seguir para uma pós-graduação em Ciência de Dados, com ênfase em Automação. Além disso, minha experiência no ecommerce me despertou interesse pela contabilidade, que se tornou minha segunda área de atuação.
 ## 
 <div style="display: inline_block">
@@ -66,7 +66,6 @@ Sou uma entusiasta experiente da tecnologia, com mais de sete anos de vivência 
 
 &nbsp;
 
-
-
+![](https://komarev.com/ghpvc/?username=your-github-scarllettlins&color=ff69b4)
 
 
