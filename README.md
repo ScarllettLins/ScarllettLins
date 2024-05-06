@@ -42,6 +42,7 @@ Sou uma entusiasta experiente da tecnologia, com mais de sete anos de vivência 
 -   🔵 **Asmarte:** Estruturação tecnológica para empresas (2017-atual)
 
 ## 📂 &nbsp;Outras experiências
+-   👖 **Maria Violeta Jeans:** Integração e administração de marketplace, reestruturação de site, gestão de ecommerce, automação de processos, marketing online e coordenação de equipe.
 -   🍣 **Vokerê Japa:** Criação de site e aplicativo de restaurante delivery, manutenção de sistema, rotina de ecommerce, automação de processos, precificação e marketing online.
 -   👗 **Irmãs Têxtil:** Criação do site eCommerce, implementação do ERP Bling, integração os principais marketplaces e adição de produtos.
 -   🦷 **AC Dental:** Organização da base de dados da empresa, inventariando mais de 10 mil produtos registrados no ERP antigo enquanto migrava os dados novos para o ERP Tiny, possibilitando a integração do sistema com a criação de um eCommerce com base em Woocommerce.
