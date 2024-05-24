@@ -7,6 +7,7 @@ Sou uma entusiasta experiente da tecnologia, com mais de sete anos de vivência 
 <img align="center" alt="CSS" src="https://img.shields.io/badge/css3-2196F3?style=for-the-badge&logo=css3&logoColor=white" />
 <img align="center" alt="JavaScript" src="https://img.shields.io/badge/javascript-F0DA4A?style=for-the-badge&logo=javascript&logoColor=black" />
 <img align="center" alt="Typescript" src="https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img align="center" alt="Node.JS" src="https://img.shields.io/badge/node.js-179b17?style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="center" alt="Angular" src="https://img.shields.io/badge/angular-A83859?style=for-the-badge&logo=angular&logoColor=white" />
 <img align="center" alt="Python" src="https://img.shields.io/badge/python-367C39?style=for-the-badge&logo=python&logoColor=white" />
 <img align="center" alt="PHP" src="https://img.shields.io/badge/php-7868B0?style=for-the-badge&logo=php&logoColor=white" />
