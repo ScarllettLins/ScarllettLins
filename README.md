@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=your-github-scarllettlins&color=008000&style=flat-square&label=VISUALIZAÇÕES)
 ## ✨  &nbsp;Sobre mim 
-Sou uma entusiasta experiente da tecnologia, com mais de sete anos de vivência em áreas como desenvolvimento de software, ecommerce, análise de dados e marketing digital. Embora já tenha uma sólida experiência nesse mercado, percebi a importância de aprimorar minha formação acadêmica para atingir certos objetivos profissionais e acadêmicos. Atualmente, estou em processo de graduação em Análise e Desenvolvimento de Sistemas, com o intuito de seguir para uma pós-graduação em Ciência de Dados, com ênfase em Automação. Além disso, minha experiência no ecommerce me despertou interesse pela contabilidade, que se tornou minha segunda área de atuação.
+Sou uma entusiasta experiente da tecnologia, com mais de sete anos de vivência em áreas como desenvolvimento de software, e-commerce, análise de dados e marketing digital. Embora já tenha uma sólida experiência nesse mercado, percebi a importância de aprimorar minha formação acadêmica para atingir certos objetivos profissionais e acadêmicos. Atualmente, estou em processo de graduação em Análise e Desenvolvimento de Sistemas, com o intuito de seguir para uma pós-graduação em Ciência de Dados, com ênfase em Automação. Além disso, minha experiência no e-commerce me despertou interesse pela contabilidade, que se tornou minha segunda área de atuação.
 ## 
 <div style="display: inline_block">
 <img align="center" alt="HTML" src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -17,7 +17,7 @@ Sou uma entusiasta experiente da tecnologia, com mais de sete anos de vivência 
 
 &nbsp;
 ## 🤹 &nbsp;Habilidades
--   🌐 **eCommerce:** Expertise em criação, gestão e otimização de lojas virtuais, integração com marketplaces, automação de processos, precificação e marketing digital.
+-   🌐 **e-commerce:** Expertise em criação, gestão e otimização de lojas virtuais, integração com marketplaces, automação de processos, precificação e marketing digital.
 -   🔢 **Análise de Dados:** Experiência em coleta, tratamento, análise e visualização de dados para auxiliar na tomada de decisões estratégicas.
 -   💰 **Contabilidade:** Impostos e balanço contábil, Lançamentos financeiros, Rotina administrativa, Relatórios financeiros, Lançamentos contábeis, Noções de Compliance e Mercado financeiro.
 -   👩‍🚀 **Outras Habilidades:** Me destaco pela proatividade, planejamento, organização, foco em resultado, senso de urgência, boa comunicação, atenção ao longo prazo, visão estratégica e habilidade com números. Tenho fluência em português e inglês. Atualmente estou estudando francês e coreano.
@@ -25,7 +25,7 @@ Sou uma entusiasta experiente da tecnologia, com mais de sete anos de vivência 
 ## 🧰 &nbsp;Ferramentas
 -   🖱️ **Informática básica:** Windows, Linux, Pacote Office, Pacote Adobe e Redes.
 -   👨‍💻 **Desenvolvimento:** HTML, CSS, JavaScript, Python, PHP e SQL.
--   🌐 **eCommerce:** WordPress, Woocommerce, Shopify, Webflow, VTEX, Magento, Bling, Tiny, Loja Integrada, Nuvemshop e Prestashop.
+-   🌐 **e-commerce:** WordPress, Woocommerce, Shopify, Webflow, VTEX, Magento, Bling, Tiny, Loja Integrada, Nuvemshop e Prestashop.
 -   📈 **Marketing:** Google Analytics, Twilio Segment, One Signal, Mailchimp, Leadlovers, RD Station e SEO.
 
 ## 📚 Estudando no momento
@@ -36,17 +36,19 @@ Sou uma entusiasta experiente da tecnologia, com mais de sete anos de vivência 
 -   🐍 **Análise de Dados com Python**
 
 ## 👩‍💻 &nbsp;Experiência
--   📰 **Papelex:** Gerenciamento eCommerce e Integração Marketplace (2023)
--   ☁️ **Nuuvem LTDA:** Storefront eCommerce (2022)
+-   ✨ **Eh Medical:** Gerenciamento e-commerce e Integração Marketplace (2025)
+-   🧘 **Fisiofit:** Gerenciamento e-commerce e Integração Marketplace (2024)
+-   📰 **Papelex:** Gerenciamento e-commerce e Integração Marketplace (2023)
+-   ☁️ **Nuuvem LTDA:** Storefront e-commerce (2022)
 -   💻 **Mega Informática:** Gerente de Marketing (2018-2021)
 -   ️🖥️ **Infoshop:** Gerente de Marketing (2017-2018)
 -   🔵 **Asmarte:** Estruturação tecnológica para empresas (2017-atual)
 
 ## 📂 &nbsp;Outras experiências
--   👖 **Maria Violeta Jeans:** Integração e administração de marketplace, reestruturação de site, gestão de ecommerce, automação de processos, marketing online e coordenação de equipe.
--   🍣 **Vokerê Japa:** Criação de site e aplicativo de restaurante delivery, manutenção de sistema, rotina de ecommerce, automação de processos, precificação e marketing online.
--   👗 **Irmãs Têxtil:** Criação do site eCommerce, implementação do ERP Bling, integração os principais marketplaces e adição de produtos.
--   🦷 **AC Dental:** Organização da base de dados da empresa, inventariando mais de 10 mil produtos registrados no ERP antigo enquanto migrava os dados novos para o ERP Tiny, possibilitando a integração do sistema com a criação de um eCommerce com base em Woocommerce.
+-   👖 **Maria Violeta Jeans:** Integração e administração de marketplace, reestruturação de site, gestão de e-commerce, automação de processos, marketing online e coordenação de equipe.
+-   🍣 **Vokerê Japa:** Criação de site e aplicativo de restaurante delivery, manutenção de sistema, rotina de e-commerce, automação de processos, precificação e marketing online.
+-   👗 **Irmãs Têxtil:** Criação do site e-commerce, implementação do ERP Bling, integração os principais marketplaces e adição de produtos.
+-   🦷 **AC Dental:** Organização da base de dados da empresa, inventariando mais de 10 mil produtos registrados no ERP antigo enquanto migrava os dados novos para o ERP Tiny, possibilitando a integração do sistema com a criação de um e-commerce com base em Woocommerce.
 -   🐱 **Petbarn Petshop:** Composição da equipe de desenvolvimento do site do petshop, sendo uma das responsáveis pelo conceito, planejamento do frontend e identidade visual.
 
 &nbsp;
