@@ -17,7 +17,7 @@ Sou uma entusiasta experiente da tecnologia, com mais de sete anos de vivência 
 
 &nbsp;
 ## 🤹 &nbsp;Habilidades
--   🌐 **e-commerce:** Expertise em criação, gestão e otimização de lojas virtuais, integração com marketplaces, automação de processos, precificação e marketing digital.
+-   🌐 **E-commerce:** Expertise em criação, gestão e otimização de lojas virtuais, integração com marketplaces, automação de processos, precificação e marketing digital.
 -   🔢 **Análise de Dados:** Experiência em coleta, tratamento, análise e visualização de dados para auxiliar na tomada de decisões estratégicas.
 -   💰 **Contabilidade:** Impostos e balanço contábil, Lançamentos financeiros, Rotina administrativa, Relatórios financeiros, Lançamentos contábeis, Noções de Compliance e Mercado financeiro.
 -   👩‍🚀 **Outras Habilidades:** Me destaco pela proatividade, planejamento, organização, foco em resultado, senso de urgência, boa comunicação, atenção ao longo prazo, visão estratégica e habilidade com números. Tenho fluência em português e inglês. Atualmente estou estudando francês e coreano.
