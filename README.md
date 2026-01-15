@@ -43,9 +43,9 @@ Hoje, divido meu tempo entre desenvolver soluções em **Kotlin** e dar vida a p
 
 - 🐙 **INKD GAMES:** (2026 - Atual)
   *Fundadora & Game Developer. Estúdio indie focado em Pixel Art e experiências 2D.* 
+- ☁️ **Nuuvem LTDA:** Storefront e-commerce (2022)
 - 🔵 **Asmarte:** (2017 - Atual)
   *Sócia-Fundadora. Estruturação tecnológica para empresas, consultoria de e-commerce e automação.*
-- ☁️ **Nuuvem LTDA:** Storefront e-commerce (2022)
 
 &nbsp;
 
@@ -55,9 +55,3 @@ Hoje, divido meu tempo entre desenvolver soluções em **Kotlin** e dar vida a p
 <a href="https://linkedin.com/in/seu-linkedin" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-&nbsp;
-
-## 📊 &nbsp;Status
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scarllettlins&layout=compact&theme=shadow_green)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scarllettlins&show_icons=true&theme=shadow_green&hide=issues)
