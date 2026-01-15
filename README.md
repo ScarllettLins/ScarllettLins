@@ -1,13 +1,13 @@
-![](https://komarev.com/ghpvc/?username=your-github-scarllettlins&color=4CBFA6&style=flat-square&label=VISUALIZAÇÕES)
+![](https://komarev.com/ghpvc/?username=your-github-scarllettlins&color=4CBFA6&style=flat-square&label=VIEWS)
 
-## ✨ &nbsp;Sobre mim
-**Olá! Sou Scarllett Lins.** 👋
+## ✨ &nbsp;About Me
+**Hi! I'm Scarllett Lins.** 👋
 
-Sou uma desenvolvedora de software versátil, transitando entre o mundo **Web/Mobile** e o desenvolvimento de **Jogos Digitais**.
+I'm a versatile software developer bridging the gap between **Web/Mobile** technology and **Game Development**.
 
-Minha base técnica foi construída ao longo de 7 anos com tecnologia, e-commerce e análise de dados. Atualmente, estou finalizando minha graduação em **Análise e Desenvolvimento de Sistemas**. Recentemente, após participar de uma Game Jam, descobri uma nova paixão: criar mundos.
+My technical foundation was built over 7 years in tech, e-commerce, and data analysis. I'm currently finishing my degree in **Systems Analysis and Development**. Recently, after participating in a Game Jam, I discovered a new passion: world-building.
 
-Hoje, divido meu tempo entre desenvolver soluções em **Kotlin** e dar vida a projetos criativos no meu estúdio indie, a **[INKD GAMES](https://inkdgames.itch.io)**.
+Today, I split my time between developing solutions in **Kotlin** and bringing creative projects to life at my indie studio, **[INKD GAMES](https://inkdgames.itch.io)**.
 
 ## 🛠 &nbsp;Tech Stack
 <div style="display: inline_block">
@@ -22,36 +22,35 @@ Hoje, divido meu tempo entre desenvolver soluções em **Kotlin** e dar vida a p
 
 &nbsp;
 
-## 🤹 &nbsp;Habilidades & Focos
+## 🤹 &nbsp;Skills & Focus
 ### 👾 Game Development
-- **Engines:** Godot (Foco atual) & Estudos em Unity.
-- **Arte:** Pixel Art (Aseprite), Animação 2D e Design de Personagens.
-- **Projetos:** Desenvolvimento de mecânicas, narrativa interativa e "Game Juice".
+- **Engines:** Godot (Current focus) & Unity studies.
+- **Art:** Pixel Art (Aseprite), 2D Animation, and Character Design.
+- **Projects:** Mechanics development, interactive storytelling, and "Game Juice".
 
-### 💻 Desenvolvimento Web & Mobile
-- **Foco:** Kotlin (Android) e Fullstack Web.
-- **Back:** Python (Automação/Dados) e PHP.
+### 💻 Web & Mobile Development
+- **Focus:** Kotlin (Android) and Fullstack Web.
+- **Backend:** Python (Automation/Data) and PHP.
 
-### 💼 Negócios & Gestão
-*Minha experiência prévia em E-commerce e Marketing me ajuda a gerir meu estúdio indie com visão estratégica.*
-- **Gestão:** E-commerce, Marketing Digital, Precificação e Liderança de Projetos.
-- **Dados:** Análise de métricas, KPIs e automação de processos.
+### 💼 Business & Management
+*My background in E-commerce and Marketing helps me manage my indie studio with a strategic vision.*
+- **Management:** E-commerce, Digital Marketing, Pricing, and Project Leadership.
+- **Data:** Metrics analysis, KPIs, and process automation.
 
 &nbsp;
 
-## 👩‍💻 &nbsp;Experiência Profissional
+## 👩‍💻 &nbsp;Professional Experience
 
-- 🐙 **INKD GAMES:** (2026 - Atual)
-  *Fundadora & Game Developer. Estúdio indie focado em Pixel Art e experiências 2D.* 
+- 🐙 **INKD GAMES:** (2026 - Present)
+  *Founder & Game Developer. Indie studio focused on Pixel Art and 2D experiences.*
 - ☁️ **Nuuvem LTDA:** Storefront e-commerce (2022)
-- 🔵 **Asmarte:** (2017 - Atual)
-  *Sócia-Fundadora. Estruturação tecnológica para empresas, consultoria de e-commerce e automação.*
+- 🔵 **Asmarte:** (2017 - Present)
+  *Co-Founder. Tech structuring for businesses, e-commerce consulting, and automation.*
 
 &nbsp;
 
-## 🔗 &nbsp;Vamos conectar?
+## 🔗 &nbsp;Let's Connect?
 <p align="left">
 <a href="https://inkdgames.itch.io" target="blank"><img align="center" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io" /></a>
 <a href="https://linkedin.com/in/seu-linkedin" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
-
