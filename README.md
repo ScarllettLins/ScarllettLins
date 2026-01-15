@@ -32,7 +32,7 @@ Hoje, divido meu tempo entre desenvolver soluções em **Kotlin** e dar vida a p
 - **Foco:** Kotlin (Android) e Fullstack Web.
 - **Back:** Python (Automação/Dados) e PHP.
 
-### 💼 Negócios & Gestão (Meu Background)
+### 💼 Negócios & Gestão
 *Minha experiência prévia em E-commerce e Marketing me ajuda a gerir meu estúdio indie com visão estratégica.*
 - **Gestão:** E-commerce, Marketing Digital, Precificação e Liderança de Projetos.
 - **Dados:** Análise de métricas, KPIs e automação de processos.
