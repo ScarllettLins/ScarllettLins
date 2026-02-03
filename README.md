@@ -9,6 +9,8 @@ My technical foundation was built over 7 years in tech, e-commerce, and data ana
 
 Today, I split my time between developing solutions in **Kotlin** and bringing creative projects to life at my indie studio, **[INKD GAMES](https://inkdgames.itch.io)**.
 
+&nbsp;
+
 ## 🛠 &nbsp;Tech Stack
 <div style="display: inline_block">
   <img align="center" alt="Godot" src="https://img.shields.io/badge/GODOT-%23478cbf.svg?style=for-the-badge&logo=godot-engine&logoColor=white" />
@@ -46,6 +48,17 @@ Today, I split my time between developing solutions in **Kotlin** and bringing c
 - ☁️ **Nuuvem LTDA:** Storefront e-commerce (2022)
 - 🔵 **Asmarte:** (2017 - Present)
   *Co-Founder. Tech structuring for businesses, e-commerce consulting, and automation.*
+
+&nbsp;
+
+## 🏆 Achievements & Game Jams
+*“The first of many.”*
+
+| Event | Project | Award&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Status | Info | Links&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **GameJamPlus:<br>Valeu, Natalina!** | **Santa in Trouble** | 🥇 **Winner** | Qualified for GameJamPlus 10th Edition (SP) | Recognized as one of the top entries. Project supported by the **Federal Government (Ministry of Culture)**. Awarded a full trip to represent **INKD GAMES (Team Bobina)** at the national semifinals in São Paulo. | 🎮 [Play Game](https://inkdgames.itch.io/santa-in-trouble) <br> 🖥️ [GitHub Project](#) <br> 🕹️ [Jam Page](https://itch.io/jam/game-jam-plus-valeu-natalina) <br> 📜 [Results](https://www.instagram.com/p/DURGwn7geTW) |
+
+> 🚀 **Milestone:** Project recognized and supported by the **Ministry of Culture and Federal Government**, unlocking a spot in the **GameJamPlus 10th Edition** national stage.
 
 &nbsp;
 
