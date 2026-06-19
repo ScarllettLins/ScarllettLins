@@ -14,8 +14,6 @@ Today, I split my time between developing solutions in **Kotlin** and bringing c
 ## 🛠 &nbsp;Tech Stack
 <div style="display: inline_block">
   <img align="center" alt="Godot" src="https://img.shields.io/badge/GODOT-%23478cbf.svg?style=for-the-badge&logo=godot-engine&logoColor=white" />
-  <img align="center" alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img align="center" alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img align="center" alt="HTML" src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="CSS" src="https://img.shields.io/badge/css3-2196F3?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/javascript-F0DA4A?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -31,8 +29,8 @@ Today, I split my time between developing solutions in **Kotlin** and bringing c
 - **Projects:** Mechanics development, interactive storytelling, and "Game Juice".
 
 ### 💻 Web & Mobile Development
-- **Focus:** Kotlin (Android) and Fullstack Web.
-- **Backend:** Python (Automation/Data) and PHP.
+- **Focus:** Fullstack Web.
+- **Backend:** Python (Automation/Data).
 
 ### 💼 Business & Management
 *My background in E-commerce and Marketing helps me manage my indie studio with a strategic vision.*
@@ -56,7 +54,7 @@ Today, I split my time between developing solutions in **Kotlin** and bringing c
 
 | Event | Project | Award&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Status | Info | Links&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **GameJamPlus:<br>Valeu, Natalina!** | **Santa in Trouble** | 🥇 **Winner** | Qualified for GameJamPlus 10th Edition (SP) | Recognized as one of the top entries. Project supported by the **Federal Government (Ministry of Culture)**. Awarded a full trip to represent **INKD GAMES (Team Bobina)** at the national semifinals in São Paulo. | 🎮 [Play Game](https://inkdgames.itch.io/santa-in-trouble) <br> 🖥️ [GitHub Project](#) <br> 🕹️ [Jam Page](https://itch.io/jam/game-jam-plus-valeu-natalina) <br> 📜 [Results](https://www.instagram.com/p/DURGwn7geTW) |
+| **GameJamPlus:<br>Valeu, Natalina!** | **Santa in Trouble** | 🥇 **Winner** |  | Recognized as one of the top entries. Project supported by the **Federal Government (Ministry of Culture)**. Awarded a full trip to represent **INKD GAMES (Team Bobina)** at the national semifinals in São Paulo. | 🎮 [Play Game](https://inkdgames.itch.io/santa-in-trouble) <br> 🖥️ [GitHub Project](#) <br> 🕹️ [Jam Page](https://itch.io/jam/game-jam-plus-valeu-natalina) <br> 📜 [Results](https://www.instagram.com/p/DURGwn7geTW) |
 
 > 🚀 **Milestone:** Project recognized and supported by the **Ministry of Culture and Federal Government**, unlocking a spot in the **GameJamPlus 10th Edition** national stage.
 
@@ -65,5 +63,5 @@ Today, I split my time between developing solutions in **Kotlin** and bringing c
 ## 🔗 &nbsp;Let's Connect?
 <p align="left">
 <a href="https://inkdgames.itch.io" target="blank"><img align="center" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io" /></a>
-<a href="https://linkedin.com/in/seu-linkedin" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/scarllettlins/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
