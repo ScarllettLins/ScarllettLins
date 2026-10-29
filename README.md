@@ -11,85 +11,50 @@ Beyond the corporate servers and security protocols, my passion for gaming takes
 
 &nbsp;
 
-## 🛠 &nbsp;Tech Stack
+## 🗂️ &nbsp;Skills & Tech Stack
 
-<table border="0" width="100%">
-  <tr>
-    <td valign="top" width="50%">
-      <h3>🛡️ Cybersecurity</h3>
-      <div style="display: inline-block">
-        <img align="center" alt="Burp Suite" src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-        <img align="center" alt="OWASP" src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
-        <img align="center" alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-        <img align="center" alt="JWT" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
-      </div>
-      <br>
-      <h3>🔍 Quality Assurance</h3>
-      <div style="display: inline-block">
-        <img align="center" alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-        <img align="center" alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-      </div>
-      <br>
-      <h3>💻 Software Development</h3>
-      <div style="display: inline-block">
-        <img align="center" alt="Python" src="https://img.shields.io/badge/python-367C39?style=for-the-badge&logo=python&logoColor=white" />
-        <img align="center" alt="JavaScript" src="https://img.shields.io/badge/javascript-F0DA4A?style=for-the-badge&logo=javascript&logoColor=black" />
-        <img align="center" alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
-        <img align="center" alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-        <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-        <img align="center" alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-        <img align="center" alt="Traefik" src="https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefik-proxy&logoColor=white" />
-        <img align="center" alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-      </div>
-    </td>
-    <td valign="top" width="50%">
-      <h3>👾 Game Development</h3>
-      <div style="display: inline-block">
-        <img align="center" alt="Godot" src="https://img.shields.io/badge/GODOT-%23478cbf.svg?style=for-the-badge&logo=godot-engine&logoColor=white" />
-        <img align="center" alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
-        <img align="center" alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
-        <img align="center" alt="Aseprite" src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=black" />
-      </div>
-    </td>
-  </tr>
-</table>
-&nbsp;
+### 🛡️ Cybersecurity
+- **Focus:** AppSec, DevSecOps, and Vulnerability Mapping.
+- **Tools & Practices:** Burp Suite, OWASP Guidelines, SQL Injection Prevention, JWT Authentication, and Secure Architecture.
 
-## 🤹 &nbsp;Skills
+&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" alt="Burp Suite" src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+<img align="center" alt="OWASP" src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+<img align="center" alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+<img align="center" alt="JWT" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
+<br><br>
 
-<table border="0" width="100%">
-  <tr>
-    <td valign="top" width="50%">
-      <h3>🛡️ Cybersecurity & DevOps</h3>
-      <ul>
-        <li><b>Focus:</b> AppSec, DevSecOps, and Vulnerability Mapping.</li>
-        <li><b>Tools & Practices:</b> Burp Suite, OWASP Guidelines, SQL Injection Prevention, JWT Authentication, and Secure Architecture.</li>
-      </ul>
-      <br>
-      <h3>🔍 Quality Assurance (QA)</h3>
-      <ul>
-        <li><b>Focus:</b> Test Automation, API Testing, and Software Resilience.</li>
-        <li><b>Tools & Practices:</b> Postman, Playwright, Manual Testing, and Contract Validation.</li>
-      </ul>
-      <br>
-      <h3>💻 Software Development</h3>
-      <ul>
-        <li><b>Focus:</b> Full Stack Web, Backend Architecture, and REST API Integration.</li>
-        <li><b>Languages & Frameworks:</b> Python (FastAPI, Scripts), Vanilla JavaScript, HTML5, and Tailwind CSS.</li>
-        <li><b>Data & Infra:</b> SQL (PostgreSQL, SQL Server, SQLite), Docker, and Traefik.</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <h3>👾 Game Development</h3>
-      <ul>
-        <li><b>Engines:</b> Godot & Unity studies.</li>
-        <li><b>Art:</b> Pixel Art (Aseprite), 2D Animation, and Character Design.</li>
-        <li><b>Projects:</b> Mechanics development, interactive storytelling, and "Game Juice".</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### 🔍 Quality Assurance (QA)
+- **Focus:** Test Automation, API Testing, and Software Resilience.
+- **Tools & Practices:** Postman, Playwright, Manual Testing, and Contract Validation.
 
+&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img align="center" alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+<br><br>
+
+### 💻 Software Development
+- **Focus:** Full Stack Web, Backend Architecture, and REST API Integration.
+- **Languages & Frameworks:** Python (FastAPI, Scripts), Vanilla JavaScript, HTML5, and Tailwind CSS.
+- **Data & Infra:** SQL (PostgreSQL, SQL Server, SQLite), Docker, and Traefik.
+
+&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" alt="Python" src="https://img.shields.io/badge/python-367C39?style=for-the-badge&logo=python&logoColor=white" />
+<img align="center" alt="JavaScript" src="https://img.shields.io/badge/javascript-F0DA4A?style=for-the-badge&logo=javascript&logoColor=black" />
+<img align="center" alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img align="center" alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+<img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img align="center" alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+<img align="center" alt="Traefik" src="https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefik-proxy&logoColor=white" />
+<img align="center" alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+<br><br>
+
+### 👾 Game Development
+- **Engines:** Godot & Unity studies.
+- **Art:** Pixel Art (Aseprite), 2D Animation, and Character Design.
+- **Projects:** Mechanics development, interactive storytelling, and "Game Juice".
+
+&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" alt="Godot" src="https://img.shields.io/badge/GODOT-%23478cbf.svg?style=for-the-badge&logo=godot-engine&logoColor=white" />
+<img align="center" alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
+<img align="center" alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img align="center" alt="Aseprite" src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=black" />
 
 &nbsp;
 
